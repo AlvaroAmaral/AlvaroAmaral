@@ -1,6 +1,6 @@
 ## Eae, eu sou o Álvaro Amaral, estudante de Engenharia de Software!
 
-![AlvaroAmaral's Stats](https://github-readme-stats.vercel.app/api?username=AlvaroAmaral&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://githubstats.com.br/api/stats?username=AlvaroAmaral&theme=dark&showBorder=true&language=pt&type=stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alvaro-HTML" height="30" width="40" src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM0OTgwMzcsIm5iZiI6MTc2MzQ5NzczNywicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTE4VDIwMjg1N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThiYmE2MDlmYWY0OTUwMTgyOGVkNzJkZDhiNzcwMTEyNTg5NzIwMWUwMDJlNWM2N2Q5YzdlY2IwYmQwNTdlYzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.JSmcxaCjNIAQkm8pDIBAxq28EbFfiMCc_NH6fDqCD_4">
