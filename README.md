@@ -2,7 +2,7 @@ Olá, eu sou o Álvaro Amaral!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=AlvaroAmaral&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudante de Engenharia de Software<br/> Eu sou desenvolvedor Back-End</p>
+<p>Estudante de Engenharia de Software<br/> Desenvolvedor Back-End</p>
 
 <div> 
   <a href="https://www.linkedin.com/in/alvaro-amaral" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
